@@ -1,4 +1,4 @@
-# Programmes stage de fin d'étude IAB
+# Machine Learning for extra-cellular matrix degradation quantification
 
 [French]
 
