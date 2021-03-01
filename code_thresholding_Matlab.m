@@ -1,4 +1,4 @@
-% Lucas Sancéré, beginning 04/03/2019 AN, work on it, - 05/03 AN - 06/03 AN
+% Lucas SancÃ©rÃ©, beginning 04/03/2019 AN, work on it, - 05/03 AN - 06/03 AN
 % - 07/03 AN - 11/03 AN - 13/03 AN - 15/03 AN - 20/03 AN 
 % - 
 %(explanations of why I started late in file called "PFE")
