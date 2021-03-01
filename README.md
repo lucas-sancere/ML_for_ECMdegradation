@@ -3,7 +3,7 @@
 
 [English]
 
-This directory contains the programs created during the end of study internship of the year 2018/2019 of Lucas Sancéré for the iAB laboratory of La Tronche (Isère, France).  
+This directory contains the programs created during a part of the end of study internship of the year 2018/2019 of Lucas Sancéré for the iAB laboratory of La Tronche (Isère, France).  
 
 The file "Machine Learning classification for iAB by LS.ipynb" contains the final commented script of the machine learning based system realized for the internship. The code will be updated from October 2019 by students from Grenoble INP Phelma school, following the "To Improve" instructions written in markdown.  
 
